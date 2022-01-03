@@ -1,0 +1,7 @@
+cache:
+- c:\tools\vcpkg\installed\
+
+build_script:
+- cmd: >-
+    vcpkg install boost:x64-windows
+
