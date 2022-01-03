@@ -1,7 +1,7 @@
 image: Visual Studio 2017
 
 cache:
-- c:\Tools\vcpkg\installed\
+- c:\tools\vcpkg\installed\
 
 build_script:
 - cmd: >-
